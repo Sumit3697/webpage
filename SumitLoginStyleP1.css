@@ -1,0 +1,86 @@
+.container1 {
+    max-width: 100%;
+    background-color: rgb(235, 223, 246);
+    position: relative;
+    padding: 15%;
+    width: 500px;
+    height: 120px ;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: rgb(129, 79, 209);
+    margin-left: 12%;
+    margin-top: 80px;
+
+
+}
+
+.container2 {
+    max-width: 100%;
+    background-color: rgb(247, 241, 234);
+    position: absolute;
+    width: 40%;
+    height: 70%;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: rgb(129, 79, 209);
+    margin-bottom: -20%;
+    margin-top: -13%;
+    margin-left: 7%;
+
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.userid {
+    font-size: 1.5rem;
+    margin-left: 17%;
+    margin-top: 10%;
+    padding-top: 10%;
+}
+
+.password {
+    font-size: 1.5rem;
+    margin-left: 17%;
+    margin-top: 10%;
+    padding-top: 15%;
+}
+
+.first {
+    margin-top: 10px;
+    margin-left: 17%;
+    margin-bottom: 20px;
+    background-color: rgb(243, 237, 247);
+    color: rgb(40, 41, 41);
+    height: 40px;
+    width: 250px;
+    border-radius: 15px;
+    border-color: black;
+}
+
+.second {
+    margin-top: 10px;
+    margin-left: 17%;
+    background-color: rgb(243, 237, 247);
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 250px;
+    border-radius: 15px;
+    border-color: black;
+}
+
+.button {
+    margin-left: 30%;
+    margin-top: 35px;
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    background-color: darkgray;
+    color: aliceblue;
+    font-weight: 300%;
+    font-size: 20px;
+
+}
